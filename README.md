@@ -1,14 +1,6 @@
 # Lavaplayer Track Info
 
-Decode lavaplayer tracks locally, from a Buffer or base64 string.
-
-# Installation
-
-```
-npm i @blad3mak3r/lavaplayer-encoding
-pnpm add @blad3mak3r/lavaplayer-encoding
-yarn add @blad3mak3r/lavaplayer-encoding
-```
+Encode and Decode lavaplayer tracks locally, from a Buffer or base64 string.
 
 # Usage
 
